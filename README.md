@@ -15,6 +15,7 @@ Place the CSV in the `data/` folder as `kc_house_data.csv` to reproduce this pro
 | Notebook | Description |
 |----------|-------------|
 | `01_eda.ipynb` | Exploratory data analysis — distributions, correlations, key drivers of price |
+| `02_cleaning.ipynb` | Data cleaning, outlier removal, feature engineering — house_age, was_renovated, price_per_sqft, total_rooms |
 
 ## Key Findings (EDA)
 - House prices are heavily right-skewed
