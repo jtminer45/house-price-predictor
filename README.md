@@ -17,6 +17,7 @@ Place the CSV in the `data/` folder as `kc_house_data.csv` to reproduce this pro
 | `01_eda.ipynb` | Exploratory data analysis — distributions, correlations, key drivers of price |
 | `02_cleaning.ipynb` | Data cleaning, outlier removal, feature engineering |
 | `03_model.ipynb` | Regression modelling — Linear Regression, Random Forest, Gradient Boosting |
+| `04_tuning.ipynb` | Cross-validation, RandomizedSearchCV hyperparameter tuning — confirmed R² 0.9984 across 5 folds |
 
 ## Results
 
